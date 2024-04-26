@@ -33,8 +33,9 @@ Open http://localhost:5173/ in your browser to view the application.
 
 To replace the OpenWeatherMap API key with your own key, follow these steps:
 
-1. Open the `Context` file in your project.
-2. Find the section where the API key is defined. It might look something like this:
+1.Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api). You need to create an account to get an API key.
+2. Open the `Context` file in your project.
+3. Find the section where the API key is defined. It might look something like this:
 
    ```javascript
    const fetchWeather = async () => {
