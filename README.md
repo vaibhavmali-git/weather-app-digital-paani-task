@@ -5,13 +5,13 @@ Follow these steps to set up and run the app
 1. Clone the Repository:
 
 ```bash
-https://github.com/vaibhavmali-git/weather-app-digital-pani-task.git
+git clobe https://github.com/vaibhavmali-git/weather-app-digital-paani-task.git
 ```
 
 2. Navigate to the Project Directory:
 
 ```bash
-cd weather-app-digital-pani-task
+cd weather-app-digital-paani-task
 ```
 
 3. Install Dependencies:
